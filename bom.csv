@@ -1,0 +1,24 @@
+Component,Description,Price (USD),Source
+ESP32 Dev Board,Central controller with Wi-Fi/Bluetooth,$9.90,https://thepihut.com/products/esp32-wroom-32
+Breadboard (830 pts),For circuit prototyping,$5.95,https://www.adafruit.com/product/239
+25× Jumper Wires (M-M),For wiring connections,$9.00,
+2× DHT11 Sensors,Measures temperature & humidity,$15.8,https://www.dfrobot.com/product-2391.html
+4-Water Pump (5V),For fountain cycling,$22.0,https://www.dfrobot.com/product-2374.html
+2× Power Switches,Manual control of power lines,$5.00,https://www.adafruit.com/product/1125
+2× 3.7V Li-ion Batteries (18650),Rechargeable power,$10.0,https://www.adafruit.com/product/1781
+Battery Holder (2×18650),Powers ESP32 and pump,$8.00,
+2-Servo Motor,For door control,$23,https://www.dfrobot.com/product-959.html
+Buzzer (Active),Audio alerts,$4.50,https://www.dfrobot.com/product-399.html
+10× Diode (1N4007),Protects motor backflow,$5,
+DC Motor (3–12V),For water turbine,$29.0,http://dfrobot.com/product-1210.html
+DC Motor (3–24V),For power generation,$17.0,https://www.dfrobot.com/product-582.html
+2× PIR Motion Sensors,Motion detection for automation,$58.0,https://www.dfrobot.com/product-2282.html
+Lithium Battery Charger (TP4056),Recharge 18650s safely,$9.00,
+OLED Display (128x64 I2C),Show sensor readings,$14.9,https://www.dfrobot.com/product-1576.html
+Solar Panel (6V 1W),Extra renewable source for charging,$21.0,https://voltaicsystems.com/P101C/?searchid=0&search_query=
+Relay Module (4-channel),Control water pumps or loads,$27.9,https://www.dfrobot.com/product-2349.html
+Water Level Sensor,Detects water levels for automation,$10.9,https://www.dfrobot.com/product-2116.html
+SD Card Logging Module,Data logging from ESP32,$9.19,
+Sound Sensor Module,Respond to environmental noise,$7.50,https://www.dfrobot.com/product-366.html
+Soil Moisture Sensor,Optional plant monitoring,$14.9,https://www.dfrobot.com/product-2054.html
+,Total,,$327.54,
