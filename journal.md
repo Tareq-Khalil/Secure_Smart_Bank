@@ -118,17 +118,7 @@ Having done the bulk of the development work, I had switched to closing things d
 
 The last day I completed the bill of materials (BOM), re-checking all the components and sources of materials. I did my README file, completed this journal and met with my mentor to ensure that all the major calculations were done especially the one concerning energy consumption and materials. Their input made the project look valid and due to this, the project was sealed in a confident manner.
 
----
 
-## Visual Documentation
-
-### System Development Images
-
-### Expected Results
-
-### System Analysis
-
-### Theoretical Concepts Referenced
 
 
 
