@@ -8,9 +8,9 @@ The rise in energy consumption and environmental impact from modern infrastructu
 
 
 ### Screenshots
-- ![](<picc.png>)
-- ![](piic.jpg)
-- ![](piiic.jpg)
+- ![](Pictures/<picc.png>)
+- ![](Pictures/piic.jpg)
+- ![](Pictures/piiic.jpg)
 
 ---
 
@@ -41,3 +41,6 @@ The rise in energy consumption and environmental impact from modern infrastructu
 | 21| Sound Sensor Module            | Noise-triggered features                | $7.50       | [Link](https://www.dfrobot.com/product-366.html) |
 | 22| Soil Moisture Sensor           | Optional environmental sensing          | $14.90      | [Link](https://www.dfrobot.com/product-2054.html) |
 |   | **Total**                      |                                          | **$327.54** |        |
+
+##Note
+the price of the materials will be less than this but this is what i found online, i also intend to get the fund in (reimbrusement) way.
