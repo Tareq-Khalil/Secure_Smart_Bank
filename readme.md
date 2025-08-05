@@ -42,5 +42,6 @@ The rise in energy consumption and environmental impact from modern infrastructu
 | 22| Soil Moisture Sensor           | Optional environmental sensing          | $14.90      | [Link](https://www.dfrobot.com/product-2054.html) |
 |   | **Total**                      |                                          | **$327.54** |        |
 
-##Note
+## Note
 the price of the materials will be less than this but this is what i found online, i also intend to get the fund in (reimbrusement) way.
+
