@@ -36,7 +36,7 @@ This was a more techoriented day. I concluded on the general shape and the layou
 **Time Spent**: 5 hours  
 
 I changed to the embedded system part of the project. Today my task was to design the power distribution network of the ESP32 microcontroller. I determined what sensors I was going to incorporate and started to make a diagram of how things were going to be hooked up. I calculated on average five hours of experimenting with the circuit layouts and the efficient management of power in all the modules.
--Pictures/esp32_power_distribution_diagram.png
+- ![](Pictures/<esp32_power_distribution_diagram.png>)
 
 ---
 
@@ -125,6 +125,7 @@ The last day I completed the bill of materials (BOM), re-checking all the compon
 
 ### Theoretical Concepts Referenced
 - ![Faraday’s Law and Power Generation](Pictures/image-3.png)
+
 
 
 
