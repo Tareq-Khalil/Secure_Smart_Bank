@@ -28,6 +28,7 @@ Once I had the foundation of theory in place, I proceeded to the next stage draw
 **Time Spent**: 4 hours  
 
 This was a more techoriented day. I concluded on the general shape and the layout of the bank and commenced on the simplest computation as to the thickness of the walls and other space dimensions. Designs of airflow patterns to achieve proper natural ventilation were also simulated by me in attempt to reduce the use of artificial cooling systems. Even though this was a shorter session (approximately four hours), it made it clearer to reinforce the literal aspects that would have to be followed in the subsequent procedures.
+- ![](Pictures/piiic.jpg)
 
 ---
 
@@ -35,6 +36,7 @@ This was a more techoriented day. I concluded on the general shape and the layou
 **Time Spent**: 5 hours  
 
 I changed to the embedded system part of the project. Today my task was to design the power distribution network of the ESP32 microcontroller. I determined what sensors I was going to incorporate and started to make a diagram of how things were going to be hooked up. I calculated on average five hours of experimenting with the circuit layouts and the efficient management of power in all the modules.
+
 
 ---
 
@@ -113,7 +115,6 @@ The last day I completed the bill of materials (BOM), re-checking all the compon
 ### System Development Images
 - ![](Pictures/picc.png)
 - ![](Pictures/piic.jpg)
-- ![](Pictures/piiic.jpg)
 
 ### Expected Results
 - ![Expected Output](Pictures/image-1.png)
@@ -124,4 +125,5 @@ The last day I completed the bill of materials (BOM), re-checking all the compon
 
 ### Theoretical Concepts Referenced
 - ![Faraday’s Law and Power Generation](Pictures/image-3.png)
+
 
