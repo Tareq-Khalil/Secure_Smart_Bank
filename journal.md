@@ -11,72 +11,100 @@
 ## Daily Development Log
 
 ### 23/06/2025  
-Today marked the beginning of my work on the *Secure_Smart_Bank* project. I spent around six hours brainstorming the essential features I wanted the prototype to include. My primary goal was to merge sustainability with automation, so I began sketching rough architectural concepts and outlining the core ideas that would drive the system. I also took time to explore different smart building models and renewable energy implementations to draw inspiration. By the end of the day, I had a clear list of goals and a vision to guide the rest of my work.
+**Time Spent**: 6 hours  
+
+This is the first day of my work on the *Secure_Smart_Bank* project. I took approximately six hours to sit down and brainstorm on the important details that I would want to incorporate when making the prototype. The main focus of my idea was to integrate automation and sustainability, this is why I started drawing some rough architectural ideas and describing the main concepts according to which the system was to operate. I also browsed around on various smart building models, and renewable energy implementations to get ideas. At the end of the working day, I already had a clear set of goals and a vision to lead my remaining tasks.
 
 ---
 
 ### 24/06/2025  
-With the conceptual foundation laid, I moved on to designing the initial 3D layout of the structure. I dedicated about six hours exploring different shapes that would promote energy efficiency—particularly dome shapes that support passive cooling. I also began researching natural insulation materials, focusing on clay-straw combinations known for their thermal retention. As I studied more, I jotted down potential sources for these eco-materials and compared their properties in terms of local availability and cost-effectiveness.
+**Time Spent**: 6 hours  
+
+Once I had the foundation of theory in place, I proceeded to the next stage drawing the first 3-dimensional layout of the construction. I spent around six hours trying various shapes which would help to be energy efficient, especially dome shapes that facilitate passive cooling. I have also started investigating into natural insulation material, with special interests in clay-straw mixes that have good thermal retention features. The more I was studying, the more I noted possible sources of these eco-materials and their characteristics regarding availability in the area and whether it is cost-efficient or not.
 
 ---
 
 ### 25/06/2025  
-This day was more technically focused. I finalized the overall shape and structure of the bank and began performing basic calculations regarding wall thickness and foundation dimensions. I also simulated airflow patterns to ensure proper natural ventilation, trying to minimize the need for artificial cooling systems. Although it was a shorter session (around four hours), it helped solidify the practical dimensions I would need to follow in the next steps.
+**Time Spent**: 4 hours  
+
+This was a more techoriented day. I concluded on the general shape and the layout of the bank and commenced on the simplest computation as to the thickness of the walls and other space dimensions. Designs of airflow patterns to achieve proper natural ventilation were also simulated by me in attempt to reduce the use of artificial cooling systems. Even though this was a shorter session (approximately four hours), it made it clearer to reinforce the literal aspects that would have to be followed in the subsequent procedures.
 
 ---
 
 ### 26/06/2025  
-I shifted gears to the embedded system side of the project. My focus today was on designing the power distribution network for the ESP32 microcontroller. I identified which sensors I would be integrating and began sketching out how everything would connect. I spent about five hours experimenting with circuit layouts and exploring how to efficiently manage power across all modules.
+**Time Spent**: 5 hours  
+
+I changed to the embedded system part of the project. Today my task was to design the power distribution network of the ESP32 microcontroller. I determined what sensors I was going to incorporate and started to make a diagram of how things were going to be hooked up. I calculated on average five hours of experimenting with the circuit layouts and the efficient management of power in all the modules.
 
 ---
 
 ### 27/06/2025  
-Today I began prototyping the sensor logic on a breadboard. I started with the PIR motion sensor, successfully integrating it with the ESP32. I also connected a DHT11 sensor and spent some time debugging unstable temperature readings. This session took me five hours, but it was rewarding to see the system beginning to respond to real environmental input.
+**Time Spent**: 5 hours  
+
+I started to breadboard the sensor logic today. I began with the PIR motion sensor and it has worked well networking with the ESP32. I have also soldered a DHT11 sensor, and tried to debug bar-jumping temperature readings. It took me five hours to complete this session and it was well worth the time to know that I was starting to see the system react to real environmental input.
 
 ---
 
 ### 28/06/2025  
-I turned my attention to the renewable energy inputs. I designed a dual-input system using both solar panels and a small water turbine. Using flow rate estimates, I calculated the RPM required for the turbine and simulated power outputs for both sources. Though the session only lasted four hours, it was an exciting step forward in ensuring the project’s energy autonomy.
+**Time Spent**: 4 hours  
+
+I focussed on the renewable energy inputs. My design is based on two-input which utilizes solar panels and miniature water turbine. On flow rate estimates, I did a corresponding calculation of the RPM at which the turbine must run and power levels approximations of both sources. However short (just four hours), the session was an engulfing step on its way to providing the project with energy autonomy.
 
 ---
 
 ### 29/06/2025  
-Continuing with the power systems, I tested different load scenarios using a multimeter. I measured battery charge and discharge cycles and calculated how long the system could run on two 18650 lithium-ion cells. These tests gave me a clearer understanding of the power consumption profile and helped me plan for more realistic uptime expectations.
+**Time Spent**: 4 hours  
+
+Still on the power systems, I carried out various tests on the systems of loads with the use of a multimeter. I recorded and analyzed the number of battery charge and discharge cycles and the amount of time the system may operate on two 18650 lithium-ion batteries. The tests provided a better insight into the power consumption profile and allowed me to make more informed plans in the uptime expectations.
 
 ---
 
 ### 30/06/2025  
-Integration between hardware and software began to take shape today. I connected my Firebase real-time database to an interface built in MIT App Inventor and tested communication with the ESP32. I managed to implement temperature notifications, allowing real-time alerts to be pushed to a mobile device. These six hours were intense but deeply satisfying—it finally started to feel like a working system.
+**Time Spent**: 6 hours  
+
+The merging of both the hardware and software started to form today. I linked my Firebase real-time database with interface created in the MIT App Inventor, and communicated with the ESP32. I was able to put in place the temperature notifications and the alerts were able to push the mobile phone in real time. Six hours of intense, very satisfying work--it began to seem to be a working system.
 
 ---
 
 ### 01/07/2025  
-My goal for today was to complete the smart door locking mechanism. I developed a trigger system that uses a PIR sensor and servo motor to automatically control access. I encountered issues with false motion detections and delays in servo response, but after debugging, I added a buzzer system to sound alerts during suspicious entries. It took the full six hours, but the result was functional and reliable.
+**Time Spent**: 6 hours  
+
+My intended outcomes today were to finish the smart door locking mechanism. To have an automatic access, I came up with a trigger system comprising of PIR sensor and a servo motor. I had problems with false motion detection and slow response of servos but debugged and implemented a buzzer system that audibly notifies of suspicious entries. It used up all the six hour, the outcome was functional and dependable.
 
 ---
 
 ### 02/07/2025  
-This session was more about refinement. I documented the entire system architecture, ensuring that every module was properly recorded. I also finalized the placement of each sensor, calculating optimal positions based on detection angles, coverage range, and accessibility. It felt great to bring more structure to the project and move closer to the final build.
+**Time Spent**: 5 hours  
+
+This was more of refining session. I captured the complete architecture of the system, and each of the modules was duly captured. I also settled on each sensor placement and calculated the best position in regards to angles a detection is made at, range of coverage and its accessibility. It was awesome to introduce more shape to the project and to get near to the final build.
 
 ---
 
 ### 04/07/2025  
-I returned to circuit design and spent five hours crafting a more detailed and accurate wiring diagram. I included a relay module to control peripheral devices like a pump and lighting. After assembling everything virtually, I tested voltages across all major pins to confirm safe operating levels. At this point, I felt confident in the system’s electrical integrity.
+**Time Spent**: 5 hours  
+
+I resorted to circuit design and had spent five hours designing a more detailed and realistic wiring diagram. I added a relay module to be able to drive external devices a pump and lights. Once everything has been put together virtually, I checked voltages on all those major pins to make sure that they indicated safe operating levels. Now I was comfortable with the electric soundness of the system.
 
 ---
 
 ### 05/07/2025  
-My main task today was integrating sound detection into the application. I simulated the behavior where the system could react to audio cues—for example, turning on lights when it hears a knock. I also added logic to the app that would allow data restoration in the event of a loss or sync failure. It was a long day, but the system now felt more dynamic and responsive to real-world conditions.
+**Time Spent**: 6 hours  
+
+My principle activity today was the implementation of sound detection into the application. I modeled the behaviour in which the system got an opportunity to respond to audio signals e.g. turning the lights on in case of a knock. I also included a logic in the app which would enable restoration of data in case a loss or a failure of sync is experienced. The day was long, but the system now seemed more lively and interactive to the real-life.
 
 ---
 
 ### 06/07/2025  
-With most of the development complete, I turned my attention to wrapping things up. I organized all the documentation, gathered photos and screenshots of the system in action, and carefully reviewed the wiring and pinout plans. Although five hours wasn’t enough to perfect everything, it brought everything together in a way I was proud of.
+**Time Spent**: 5 hours  
+
+Having done the bulk of the development work, I had switched to closing things down. I sorted through all the documentation, collected pictures and screen shots of the system operating and photographing wiring and the pin out diagrams carefully. Five hours may not have been sufficient to give everything the perfectness I dreamt but it bound everything together in a manner that I took pride in.
 
 ---
 
 ### 07/07/2025  
-On the final day, I went through the bill of materials (BOM), double-checking all components and sourcing information. I wrote the README file, finalized this journal, and sat with my mentor to verify all the major calculations—particularly those related to energy use and materials. Their feedback helped validate the project and close it on a confident note.
+**Time Spent**: 5 hours  
+
+The last day I completed the bill of materials (BOM), re-checking all the components and sources of materials. I did my README file, completed this journal and met with my mentor to ensure that all the major calculations were done especially the one concerning energy consumption and materials. Their input made the project look valid and due to this, the project was sealed in a confident manner.
 
 ---
 
@@ -96,3 +124,4 @@ On the final day, I went through the bill of materials (BOM), double-checking al
 
 ### Theoretical Concepts Referenced
 - ![Faraday’s Law and Power Generation](Pictures/image-3.png)
+
