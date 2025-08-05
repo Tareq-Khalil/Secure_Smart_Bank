@@ -1,12 +1,11 @@
-# Project Journal
-
-## Title: *Secure_Smart_Bank*  
-**Author**: Mina Romany Mina Habib  
-**Description**: A smart and sustainable banking system integrating eco-friendly construction materials with embedded systems for automation, environmental monitoring, and real-time security control.  
-**Start Date**: 23/06/2025  
-**Total Time Spent**: 72 hours
-
 ---
+title: "Secure_Smart_Bank"
+author: "Mina Romany Mina Habib  Your name (name or slack username)"
+description: "A smart and sustainable banking system integrating eco-friendly construction materials with embedded systems for automation, environmental monitoring, and real-time security control.  "
+created_at: "23/06/2025"
+Total Time Spent: "72 hours"
+---
+
 
 ## Daily Development Log
 
@@ -117,6 +116,7 @@ Having done the bulk of the development work, I had switched to closing things d
 **Time Spent**: 5 hours  
 
 The last day I completed the bill of materials (BOM), re-checking all the components and sources of materials. I did my README file, completed this journal and met with my mentor to ensure that all the major calculations were done especially the one concerning energy consumption and materials. Their input made the project look valid and due to this, the project was sealed in a confident manner.
+
 
 
 
