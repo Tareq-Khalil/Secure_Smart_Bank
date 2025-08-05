@@ -136,12 +136,13 @@ created_at: "23/06/2025"
 
 ----
 ## Images
-- ![](<picc.png>)
-- ![](piic.jpg)
-- ![](piiic.jpg)
+- ![](Pictures/<picc.png>)
+- ![](Pictures/piic.jpg)
+- ![](Pictures/piiic.jpg)
 ### Expected results
-- ![alt text](image-1.png)
+- ![alt text](Pictures/image-1.png)
 ### Analysis
-- ![the application](image.png)
-- ![locs used in the MIT app inventor](image-2.png)
-- ![Faraday Law](image-3.png)
+- ![the application](Pictures/image.png)
+- ![locs used in the MIT app inventor](Pictures/image-2.png)
+
+- ![Faraday Law](Pictures/image-3.png)
