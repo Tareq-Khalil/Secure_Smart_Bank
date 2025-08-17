@@ -8,7 +8,7 @@ The rise in energy consumption and environmental impact from modern infrastructu
 
 
 ### Screenshots
-- ![](Pictures/<picc.png>)
+- ![](Pictures/picc.png)
 - ![](Pictures/piic.jpg)
 - ![](Pictures/piiic.jpg)
 
@@ -44,4 +44,5 @@ The rise in energy consumption and environmental impact from modern infrastructu
 
 ## Note
 the price of the materials will be less than this but this is what i found online, i also intend to get the fund in (reimbrusement) way.
+
 
